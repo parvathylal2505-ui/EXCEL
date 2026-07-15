@@ -1,0 +1,1 @@
+An interactive Excel Sales Distribution Dashboard that provides a comprehensive overview of sales performance through dynamic filters, KPI cards, monthly and weekly trends, top customers, top products, regional distribution, and geographic sales analysis. Built using PivotTables, PivotCharts, slicers, and Excel visualization features for efficient business reporting.
