@@ -1,0 +1,1 @@
+An interactive Excel Financial Budget vs Actual Dashboard that tracks budget performance through dynamic KPIs, variance analysis, monthly trends, expense breakdowns, and category-wise insights. Built with PivotTables, PivotCharts, slicers, formulas, and Excel visualization tools to simplify financial reporting and budgeting.
