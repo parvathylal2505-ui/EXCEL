@@ -1,0 +1,1 @@
+An interactive Excel dashboard analyzing Spotify tracks using KPIs, charts, and slicers to explore track popularity, genres, danceability, energy, and explicit content. Built using Excel PivotTables, charts, and data analysis techniques.
